@@ -1,0 +1,7 @@
+Origin: greg
+Label: greg
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: greg repo for 32-bit devices greg no 64-bit no can have go bye bye
