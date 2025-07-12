@@ -1,13 +1,13 @@
 Package: com.greg.greg2
-Version: 1.0.0-18+debug
+Version: 1.0.0-19+debug
 Architecture: iphoneos-arm
 Maintainer: Greg
-Installed-Size: 992
-Filename: debs/com.greg.greg2_1.0.0-18+debug_iphoneos-arm.deb
-Size: 881390
-MD5sum: edc877cb93bce0b689d82b378fb48be4
-SHA1: 18942ecc0e947c6a625eb87602a4f274b0ee2e1f
-SHA256: e5c000e40684f61c8d7b4fcb17191477ffad8382f99809145af06bbf8dea96a8
+Installed-Size: 1252
+Filename: debs/com.greg.greg2_1.0.0-19+debug_iphoneos-arm.deb
+Size: 1138144
+MD5sum: a4cc7903fab6f4bef02ad99214de45e8
+SHA1: 0c2e8877413befbaa2d04255d1a7e874a63a8f97
+SHA256: 4c7b267e35c7c7baf90c0483d0bcbae3e24d0f8d85878d48b261d25e248260b7
 Section: Applications
 Description: I have a wicked boner
 Author: Greg
