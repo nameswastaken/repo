@@ -14,15 +14,15 @@ Author: Greg
 Name: Greg
 
 Package: org.names.freakybrowseios
-Version: 1.0.0-6+debug
+Version: 1.0.0-7+debug
 Architecture: iphoneos-arm
 Maintainer: names
-Installed-Size: 156
-Filename: debs/org.names.freakybrowseios_1.0.0-6+debug_iphoneos-arm.deb
-Size: 79572
-MD5sum: 96a687c89daee1e51d0b6e99a8a4cc32
-SHA1: 0acbefbb03f565bc7de1d83db1ed6856310b067e
-SHA256: 88d5ccdcbb090f3e317dcc8a18147a6b93821fc4869d0bd74365f5f7cb8d5fe7
+Installed-Size: 160
+Filename: debs/org.names.freakybrowseios_1.0.0-7+debug_iphoneos-arm.deb
+Size: 80754
+MD5sum: 7e11fa17ae3f77fc4f3b36b24c9b7b71
+SHA1: 8a1ba34d6f108360163feec3787eaeeadac73ef1
+SHA256: a6d85b3a6c0b85a58bea05fc806a31b58c688cd55c87826774f18fb399acc6b8
 Section: actual stuff
 Description: i cant count
 Author: names
