@@ -14,17 +14,32 @@ Author: Greg
 Name: Greg
 
 Package: org.names.freakybrowseios
-Version: 1.0.0-25+debug
+Version: 1.0.0-44+debug
 Architecture: iphoneos-arm
 Maintainer: names
-Installed-Size: 168
-Filename: debs/org.names.freakybrowseios_1.0.0-25+debug_iphoneos-arm.deb
-Size: 52254
-MD5sum: 9550058f279b5720078a3676cb357b9a
-SHA1: cf80e481f61fd8b123903adec54b3a8a98379152
-SHA256: 66bf65c6e91e5b95264f9234e97685dfa0ee4ad83fa3bf25373562063b853bff
+Installed-Size: 200
+Filename: debs/org.names.freakybrowseios_1.0.0-44+debug_iphoneos-arm.deb
+Size: 51856
+MD5sum: 564fd521e43c2ef90c4bda6f712a005d
+SHA1: a996d8654a81bedad310892cc6fe5acc5d08da02
+SHA256: 00016bcedd47c0a10e27f94f2392da885b3427b9dbd1fc2c5aba1543859359a4
 Section: actual stuff
 Description: i cant count
 Author: names
 Name: Freakybrowse iOS
+
+Package: org.names.iemux
+Version: 1.0.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: debs/org.names.iemux_1.0.0-9+debug_iphoneos-arm.deb
+Size: 44184
+MD5sum: a7fb0d1c29861ef046b729463d1996d0
+SHA1: 52452e75030b9fad0d6ce26839d3d69b2e1aeda3
+SHA256: bda8e71724c9d03c9e23822874676ff86e84a109c192e77b8337fe0603cadce1
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
 
