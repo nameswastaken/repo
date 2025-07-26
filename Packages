@@ -29,15 +29,15 @@ Author: names
 Name: Freakybrowse iOS
 
 Package: org.names.iemux
-Version: 1.0.0-9+debug
+Version: 1.0.0-10+debug
 Architecture: iphoneos-arm
 Maintainer: names
 Installed-Size: 116
-Filename: debs/org.names.iemux_1.0.0-9+debug_iphoneos-arm.deb
-Size: 44184
-MD5sum: a7fb0d1c29861ef046b729463d1996d0
-SHA1: 52452e75030b9fad0d6ce26839d3d69b2e1aeda3
-SHA256: bda8e71724c9d03c9e23822874676ff86e84a109c192e77b8337fe0603cadce1
+Filename: debs/org.names.iemux_1.0.0-10+debug_iphoneos-arm.deb
+Size: 44182
+MD5sum: a4733552b3790eefe33662750ef47670
+SHA1: 181856ca85ea03f8590e59c7dde10e12d62d256a
+SHA256: 6d5986390b1372ab396ed2c09c9f92dcd412b3c86c270e3ba69ccd3123f475d2
 Section: actual stuff
 Description: basic x86 CPU emulator for iOS 8, 9, and 10.
 Author: names
