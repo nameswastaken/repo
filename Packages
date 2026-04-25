@@ -1,0 +1,991 @@
+Package: com.eswick.harbor
+Version: 1.1.2-5+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./debs/com.eswick.harbor_1.1.2-5+debug_iphoneos-arm.deb
+Size: 52840
+MD5sum: c8fe4ce047d630817e542292859403d9
+SHA1: e185f247228760264005370aedecbba6a1eb116f
+SHA256: 14c3543607f3a4825691d274593fe93ef6a02189dc6ba8f083508066a08982fc
+Section: Tweaks
+Description: iPadOS-like dock using a modified Harbor base.
+Author: Evan Swick
+Name: iPadOS Dock - Harbor
+
+Package: com.greg.greg2
+Version: 1.0.0-14+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 864
+Filename: ./debs/com.greg.greg2_1.0.0-14+debug_iphoneos-arm.deb
+Size: 761730
+MD5sum: 6ab80f1d7e291a9247215c3c611da8fa
+SHA1: 0ca75b4f614142c8bacb8b3ed3e8e57592140f26
+SHA256: bc1cc496118c3f4d48161028cb0fab3f98d8ff2d93a7fa41f7114258bfdf12c3
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-15+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 880
+Filename: ./debs/com.greg.greg2_1.0.0-15+debug_iphoneos-arm.deb
+Size: 777472
+MD5sum: ce4fbeb8ec010eed54ede53d12c434ef
+SHA1: e8828f682b3901e51f68b088c3e045319e6406ac
+SHA256: d89435d7566d54c1eeaa8b1a9c47fd726c85cffb6504379545df660026d5a8f0
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-16+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 880
+Filename: ./debs/com.greg.greg2_1.0.0-16+debug_iphoneos-arm.deb
+Size: 777476
+MD5sum: 2d75ef16539c15826f6f5f4c29eea6a3
+SHA1: 4ca9d067c8829262c9eee1d8c6ea1d9b20b5812a
+SHA256: ea2ec295adaf6b28cc8cea8b06dc47a65134b4c7822eabd0ab74414b4b980c1f
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-17+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 992
+Filename: ./debs/com.greg.greg2_1.0.0-17+debug_iphoneos-arm.deb
+Size: 881350
+MD5sum: 47513ce0f268eddcdea3dfa9581e8fc4
+SHA1: 69e9dd2f889d9b30fb1e6e95bf6402a83f39581f
+SHA256: f8ca227afd37b88394e6e384f32c0f3a1e1bda65e23e13cbfa8fc1d3dee0fa0a
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-18+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 992
+Filename: ./debs/com.greg.greg2_1.0.0-18+debug_iphoneos-arm.deb
+Size: 881390
+MD5sum: edc877cb93bce0b689d82b378fb48be4
+SHA1: 18942ecc0e947c6a625eb87602a4f274b0ee2e1f
+SHA256: e5c000e40684f61c8d7b4fcb17191477ffad8382f99809145af06bbf8dea96a8
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-19+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 1252
+Filename: ./debs/com.greg.greg2_1.0.0-19+debug_iphoneos-arm.deb
+Size: 1138144
+MD5sum: a4cc7903fab6f4bef02ad99214de45e8
+SHA1: 0c2e8877413befbaa2d04255d1a7e874a63a8f97
+SHA256: 4c7b267e35c7c7baf90c0483d0bcbae3e24d0f8d85878d48b261d25e248260b7
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-20+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 1252
+Filename: ./debs/com.greg.greg2_1.0.0-20+debug_iphoneos-arm.deb
+Size: 1138562
+MD5sum: 6bcba012b4061b8e3832b202005c2b42
+SHA1: 3314c111fa72ecd4ce87ef5df06fe321d06a29f3
+SHA256: 9da8e9e82a29b9f1b8757edef711d70339279d956eea7a1e3bcef6d58fdc465b
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-21+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 1252
+Filename: ./debs/com.greg.greg2_1.0.0-21+debug_iphoneos-arm.deb
+Size: 1138556
+MD5sum: c612b1526797ec403b5e2b50bcf3a917
+SHA1: 66ff808ebe8a6ff3431a2dfab8f14b90207519de
+SHA256: 440f103a1c0d598f62e8d8357753c402e623af60e9a6ea7792f9cbbfcede4b39
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-22+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 1252
+Filename: ./debs/com.greg.greg2_1.0.0-22+debug_iphoneos-arm.deb
+Size: 1138814
+MD5sum: b9ed08652669ca0519a701b7cc419cb3
+SHA1: 59a6d7fc4e1f3787210b02142b7b159640df23b5
+SHA256: ed54566c108f5f2190f178c98212bbe273d8ab8f042400f243bf2027607d4a12
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-23+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 1252
+Filename: ./debs/com.greg.greg2_1.0.0-23+debug_iphoneos-arm.deb
+Size: 1139240
+MD5sum: cca945ea58743e53b4de43e9c7b8f025
+SHA1: 576bbfa74b34bdc9d8a4f59a7326e4a713471b4c
+SHA256: a15bec7fdcbf7bf85f7fc47e8b0495fe14e461eb7f034241c59d6477da82c1db
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: com.greg.greg2
+Version: 1.0.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: Greg
+Installed-Size: 864
+Filename: ./debs/com.greg.greg2_1.0.0-9+debug_iphoneos-arm.deb
+Size: 761752
+MD5sum: db5b02b90d28ebe224228eac78970212
+SHA1: 61c379ef537b85b23695eddc827e082f9f4b39a3
+SHA256: edc767366bf7bfb13bef51a086677bd24dc56dd18c481047d51b114dc7c4809d
+Section: Applications
+Description: I have a wicked boner
+Author: Greg
+Name: Greg
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 120
+Filename: ./debs/org.names.freakybrowseios_1.0.0-1+debug_iphoneos-arm.deb
+Size: 46676
+MD5sum: 11965172b69410d15f2d7985dd7cb0b5
+SHA1: 541413157f76212be10ff0cb6d7cab59e03f3e5e
+SHA256: c00bffc5270dca49338f78c009c21d332c5b9ce77ddde699e0665435dddd77a0
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 160
+Filename: ./debs/org.names.freakybrowseios_1.0.0-10+debug_iphoneos-arm.deb
+Size: 81372
+MD5sum: 6cecbf3419cbf09635b2778e72c4dc3f
+SHA1: bd5887ddc59cdb85a18e0095edd07a8ebc469552
+SHA256: 34b388c4492cd34f0a52bbbc0223d28ccab4acb5e3853fb05089f880b4e1e331
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-11+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 160
+Filename: ./debs/org.names.freakybrowseios_1.0.0-11+debug_iphoneos-arm.deb
+Size: 81478
+MD5sum: 3168d2e730b88ce5cae2a2559b8ebf41
+SHA1: f1a8c74500496fb1a65a51742152e74d738f179f
+SHA256: 1fa3c41b18f74e95d49b779cf22cb7817edb742b36ddda5760eaf5c35e9f009c
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-12+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 160
+Filename: ./debs/org.names.freakybrowseios_1.0.0-12+debug_iphoneos-arm.deb
+Size: 81484
+MD5sum: ede3a3c977be5ff32ede868814907ecc
+SHA1: 22c94117116b0530d400191e1b98dcbcd69cea5d
+SHA256: 85fe3dafa926c5cbb8f043cda28eb63f6f959c61b2a13db9c0325c9a7d4e046d
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-13+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 184
+Filename: ./debs/org.names.freakybrowseios_1.0.0-13+debug_iphoneos-arm.deb
+Size: 83230
+MD5sum: 842ca3ea1e9b5321f8527c603593f577
+SHA1: 24ccbf51edfc2cffcc2a94ab46dd86216f87e375
+SHA256: c5d647466e70aa837c212765fc9ca636095f795a6974440033a6eb76ff4ec3b6
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-14+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 184
+Filename: ./debs/org.names.freakybrowseios_1.0.0-14+debug_iphoneos-arm.deb
+Size: 85484
+MD5sum: 88d9b14dd0251d57ae4a04bb973de78e
+SHA1: 89616153555479a9b3239c1a1301c8e8e40fe723
+SHA256: c3a0d6d46fbca7d2706bdb00e72a66554a1e7c19b518f7a529a4eb67483fa89b
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-15+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-15+debug_iphoneos-arm.deb
+Size: 87176
+MD5sum: 049eb1a70217d6b9f366d37d779cd6c6
+SHA1: eee9b721c30766f3cee09849bb84cecbf8e31355
+SHA256: 75e7b107a28b54223ea874e1c001413187213061444b985ca59bc883dd2b6d15
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-16+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-16+debug_iphoneos-arm.deb
+Size: 87288
+MD5sum: 63aa61a56ddead68790f1e936790cbbc
+SHA1: 5a8b9c737b805dc94eda896b38475023caf226f4
+SHA256: 7714c9d967da922ae1615911fcaa9b989e8031eb56b709f4ce3a46c526780bbc
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-17+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-17+debug_iphoneos-arm.deb
+Size: 87300
+MD5sum: be152c81d5e291946e2ecddc229722e5
+SHA1: b2152f4ecca90237767be5bebb030fc6780f549e
+SHA256: e45483d11e30e13d099ca4f5313b33a92d74c1d1b506b8f14cb686ea24635437
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-18+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-18+debug_iphoneos-arm.deb
+Size: 87288
+MD5sum: b08d5e8458071e63922d6c0f291f9a2d
+SHA1: 723eb152d9a02e06da758a4d6433e54a18533f84
+SHA256: ff085e8bb5dff58860f9f8d6431b198fbb5ca3c0b935d91a19b066eb6a3222da
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-19+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-19+debug_iphoneos-arm.deb
+Size: 87364
+MD5sum: 5f41f901e2cc813a63b773e8cfba4911
+SHA1: f5ef03134991e62ee8aa7fbd7555c7ee3ea89339
+SHA256: d3c20e5fa0320b4534d8a009599d5f1467d33ccba8e7ec3f04ec57a89b906e06
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 156
+Filename: ./debs/org.names.freakybrowseios_1.0.0-2+debug_iphoneos-arm.deb
+Size: 77754
+MD5sum: f994888051e04b6e6bf055237399261b
+SHA1: 29253f2bd47e201b54fd31dcafaaab0c3cbfecff
+SHA256: b9bee1b7f4e714bfc17fbf597f98c6030f8a86a4bcd74d41d5e74df128571d40
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-20+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-20+debug_iphoneos-arm.deb
+Size: 87406
+MD5sum: bedd93caed7147bc801a93c53bbc0a34
+SHA1: 429fbf48a80f5c0450e974c48d4919f43bd8d982
+SHA256: 143ee2d0ae6950e60d8fdb122dfab1b2c34102e5c5e33d8372d63a5ef095f0ff
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-21+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-21+debug_iphoneos-arm.deb
+Size: 88122
+MD5sum: 84cb20cf09317be6ccc37493836a206d
+SHA1: 3d72d43bac958e8ec67b7413a69667bc9ac334f4
+SHA256: 981d64c08784481bb2733a1fb98611b1b6723468f2c4d440fde014f4e7f933c5
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-22+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-22+debug_iphoneos-arm.deb
+Size: 88190
+MD5sum: b777fe178ab9a79ed2fc82a17e466a20
+SHA1: 99394001e7dd895506dbbd2f5e729b2561e2ad39
+SHA256: 411c7235b6f256af10a6a205c07b483ab76f5c093113dcf77d99fe96bceac03c
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-23+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 168
+Filename: ./debs/org.names.freakybrowseios_1.0.0-23+debug_iphoneos-arm.deb
+Size: 52260
+MD5sum: ef31ecf4371a7ae8e2a8e2408cca95de
+SHA1: cd7e306d225cb02eaf31446e3316e175f9054df3
+SHA256: fa8ae49df7c129aab69b97ef994b4f13cf5e163580ceade5c4d9d280d783bab2
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-24+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 168
+Filename: ./debs/org.names.freakybrowseios_1.0.0-24+debug_iphoneos-arm.deb
+Size: 52324
+MD5sum: b2fd99c0479be708b4d594d56ba3a6d7
+SHA1: 568e4a820e96f9c04513adb0c6aca5b3c4264d43
+SHA256: 6270cb41c0310513085e24afe161c76225e4ec8b6143b92f4878312c81c5a00a
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-25+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 168
+Filename: ./debs/org.names.freakybrowseios_1.0.0-25+debug_iphoneos-arm.deb
+Size: 52254
+MD5sum: 9550058f279b5720078a3676cb357b9a
+SHA1: cf80e481f61fd8b123903adec54b3a8a98379152
+SHA256: 66bf65c6e91e5b95264f9234e97685dfa0ee4ad83fa3bf25373562063b853bff
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-26+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 164
+Filename: ./debs/org.names.freakybrowseios_1.0.0-26+debug_iphoneos-arm.deb
+Size: 52516
+MD5sum: afb68d8fd2aa56f098123f7352d50942
+SHA1: 916497580b31ab10e61dad6f88a317e487182aa3
+SHA256: 1444316a1628fdd9fc2e87aa268df2c5dc844c2bbf04505818d027f8f1ca6f3b
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-27+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 168
+Filename: ./debs/org.names.freakybrowseios_1.0.0-27+debug_iphoneos-arm.deb
+Size: 53084
+MD5sum: 3154c5dbc0367623af55d90769f72e54
+SHA1: 5a78e9fdfe7ff5d4d1bc42bac0503854ee5214bf
+SHA256: 189e9882377cbead3b7cc2d15d8cd2ba25fdb0251df0b78bea5d47812a58f032
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-28+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 168
+Filename: ./debs/org.names.freakybrowseios_1.0.0-28+debug_iphoneos-arm.deb
+Size: 53514
+MD5sum: 6e51fbf2f4bd5bbed01f700760c0defe
+SHA1: 4aaacc40973dfc57f227236ac42d8fb2abf544a0
+SHA256: 2d365859b929d5746e6ea747d30b0dd6cd2412f2de07f633217d7cce060375e1
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-29+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 224
+Filename: ./debs/org.names.freakybrowseios_1.0.0-29+debug_iphoneos-arm.deb
+Size: 58328
+MD5sum: ff18fefb214e775981a8a9d53c6a2dac
+SHA1: e3926c76e2fc92481a76da7e8531a3fad700d74c
+SHA256: 5680b0a5d863adc93319c09cfe2b4772ec05b2d8d60b6e94bc8555d0befc744c
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 156
+Filename: ./debs/org.names.freakybrowseios_1.0.0-3+debug_iphoneos-arm.deb
+Size: 77706
+MD5sum: 1b1ba17e444dd56c8e625803bc7e39a8
+SHA1: 8bc5be6953341a3df440803da4218b9f7505385d
+SHA256: 931da3566a002dcbb8a22f77daf3f20c9865aeac52883d4e5c87f81f2ed7e5c3
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-30+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 224
+Filename: ./debs/org.names.freakybrowseios_1.0.0-30+debug_iphoneos-arm.deb
+Size: 58796
+MD5sum: 91b4391eca0145d425150a8ca9425212
+SHA1: 8bd9350f7cd25ffecf57d1b9d256cb7853cced2b
+SHA256: cc5b16de777dd0c24be7086241fc125176fe1e0161b685c5a3adfef00206cf82
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-31+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 224
+Filename: ./debs/org.names.freakybrowseios_1.0.0-31+debug_iphoneos-arm.deb
+Size: 58338
+MD5sum: 01877f5645cff5f0baf068d1695d038b
+SHA1: 1e7a2c949271e80466876def89b75222ba56731c
+SHA256: ba1b40525273eef48af1f7dd3ec7506f6e7c1a50e33ebeedcda05dbb793cd8fd
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-32+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 224
+Filename: ./debs/org.names.freakybrowseios_1.0.0-32+debug_iphoneos-arm.deb
+Size: 59324
+MD5sum: 59fec7229e808f02fe5c82650d0e1e03
+SHA1: cc5d4cc7e84d56776ac4653e9766090090a43057
+SHA256: 2ed95d5de0bb2d66a0619700bf30377684bc368f3553401b357b952f16c6c4d6
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-33+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 224
+Filename: ./debs/org.names.freakybrowseios_1.0.0-33+debug_iphoneos-arm.deb
+Size: 59054
+MD5sum: 4dee42bb7b938a61243732e17ec3f903
+SHA1: b5faca73066fd3021a39428725e62944ce88bff3
+SHA256: d5c5cc5e501e9cc7d0fe80747c23462be7dd2d9122345a4b1606b3e1a62307b3
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-34+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 208
+Filename: ./debs/org.names.freakybrowseios_1.0.0-34+debug_iphoneos-arm.deb
+Size: 57712
+MD5sum: c7d22b5a7301e07f08b3296a07aeae32
+SHA1: e3ef6c25689f913c914f2c3647f29b05ffcf816a
+SHA256: abe2671c56339144ecb354db251164ff59d95d2c11ccef0f6d0701693137b8a9
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-35+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-35+debug_iphoneos-arm.deb
+Size: 64024
+MD5sum: bf8c7728299c0ad2b56d3eb9c5c74b83
+SHA1: 138a32ed09da71f2dd8611afc751927e599b84f9
+SHA256: 0466c1224d21620943a212d1596c2d3e3bbde60b6f85f6c3bc2ece604ed86f03
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-36+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-36+debug_iphoneos-arm.deb
+Size: 64004
+MD5sum: 882865fc7aa2fd2cdfed7015c3f96761
+SHA1: fc88e6f0a68030f32c141f7d166ab4a72c3cf3e5
+SHA256: 7122553a9a1fc8e6e038f9389b184e49e71926c36296a17e088815b76671a80e
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-37+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-37+debug_iphoneos-arm.deb
+Size: 64024
+MD5sum: 7d309086cf9e2eaebcf186431c26e656
+SHA1: e3afdfab9cf6457d799b4618fda75ded473bd422
+SHA256: 9779f224a9c45ce1e4ea135ffd28aa913749c3802a5bc76030507b34af34a5dc
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-38+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-38+debug_iphoneos-arm.deb
+Size: 63984
+MD5sum: 777eea2c83a95c4629459edc7b91f5d7
+SHA1: dfff1c90522b0c93faa868537eff7224a1ffbfb6
+SHA256: 7b5d21909f1653e2d3941fe35a7c018e8b965d5823ce2ac41040bb614a48e843
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-39+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-39+debug_iphoneos-arm.deb
+Size: 64390
+MD5sum: 0d41ad35af87b4f4a304a5ecc9aa5a90
+SHA1: 4dc426440a4a70fd0171b1a209ef4f782652ddb0
+SHA256: 445e7737271cbd48daaaa5bc87796e74183cf579b44fcb4fca11345dbc26fb2a
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 156
+Filename: ./debs/org.names.freakybrowseios_1.0.0-4+debug_iphoneos-arm.deb
+Size: 77706
+MD5sum: bf0daa0a669c549c61927b930f0b3b34
+SHA1: d73ee408864e23d4c9ddc42f0aa7cde12842846f
+SHA256: f1182d26d623c2ab9ae820c947ef4e6287daf6ae3cd9c690f42d09aa1c656c3d
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-40+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-40+debug_iphoneos-arm.deb
+Size: 64274
+MD5sum: f8fd9b71a93099f15e7cae46b86e437e
+SHA1: b795da44d1466415e1c375d016f71024891d9949
+SHA256: 5db41045d34e092a7ca3dbdd056bb9636be604c3418fdcc014924a7ac965ecb4
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-41+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-41+debug_iphoneos-arm.deb
+Size: 64256
+MD5sum: 999135cf2071ceccf9201316ebb829bc
+SHA1: 8f7f9728844aa9acf94bdab1215edc62d27dc514
+SHA256: 80d0014f5291e5a3e26ac985cb0717c0b4058a65d0c32d414b10761136dbdffc
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-42+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 228
+Filename: ./debs/org.names.freakybrowseios_1.0.0-42+debug_iphoneos-arm.deb
+Size: 64350
+MD5sum: 120a5c1959a30443f16ce8191e60f763
+SHA1: 2674a7593ecc61899ae418d21a981e4421299bb0
+SHA256: e0dbed54b42af9ddf7cc06375b1e4527f289455a3c93697fa05fbdd1c02f3039
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-43+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 200
+Filename: ./debs/org.names.freakybrowseios_1.0.0-43+debug_iphoneos-arm.deb
+Size: 51858
+MD5sum: 6888c9510a46a048618cb14484b69019
+SHA1: 83a8f0f9a31a05ef69add627be2d2bcfd845fa20
+SHA256: ac32c750281840aa079c69a3cc7bed845a68837dd36248b3480dc17d14371c8a
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-44+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 200
+Filename: ./debs/org.names.freakybrowseios_1.0.0-44+debug_iphoneos-arm.deb
+Size: 51856
+MD5sum: 564fd521e43c2ef90c4bda6f712a005d
+SHA1: a996d8654a81bedad310892cc6fe5acc5d08da02
+SHA256: 00016bcedd47c0a10e27f94f2392da885b3427b9dbd1fc2c5aba1543859359a4
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 156
+Filename: ./debs/org.names.freakybrowseios_1.0.0-5+debug_iphoneos-arm.deb
+Size: 78330
+MD5sum: 3d00a83bb939ab0f3fdd87ba01a38b68
+SHA1: 6ad75f9ef3f82e643950479d5b3d76099cb94024
+SHA256: 810efb25deb38834929e069aff757b64024dffae58cf2bc1bdef8c9b5ce96f97
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 156
+Filename: ./debs/org.names.freakybrowseios_1.0.0-6+debug_iphoneos-arm.deb
+Size: 79572
+MD5sum: 96a687c89daee1e51d0b6e99a8a4cc32
+SHA1: 0acbefbb03f565bc7de1d83db1ed6856310b067e
+SHA256: 88d5ccdcbb090f3e317dcc8a18147a6b93821fc4869d0bd74365f5f7cb8d5fe7
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-7+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 160
+Filename: ./debs/org.names.freakybrowseios_1.0.0-7+debug_iphoneos-arm.deb
+Size: 80754
+MD5sum: 7e11fa17ae3f77fc4f3b36b24c9b7b71
+SHA1: 8a1ba34d6f108360163feec3787eaeeadac73ef1
+SHA256: a6d85b3a6c0b85a58bea05fc806a31b58c688cd55c87826774f18fb399acc6b8
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 160
+Filename: ./debs/org.names.freakybrowseios_1.0.0-8+debug_iphoneos-arm.deb
+Size: 80948
+MD5sum: abae3d4847b685dd32257e7c75d4c56e
+SHA1: 89d3e503ec15ccd5b4f2c279bde58b31ccf43d66
+SHA256: 4dc7dd33f9127be93b05491a721ff54a37995f07a8b8a558dc658bd46df12bd1
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.freakybrowseios
+Version: 1.0.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 160
+Filename: ./debs/org.names.freakybrowseios_1.0.0-9+debug_iphoneos-arm.deb
+Size: 81184
+MD5sum: bf6b6097d6d2f50f6f152f43df0affcc
+SHA1: f30bd2f6c7a2d95492ed8890546dcee92e46ae17
+SHA256: e55e4e7ac43a72b26f7c9417d31aa079d8f87f8810b87ec90a0ef93201c203d1
+Section: actual stuff
+Description: i cant count
+Author: names
+Name: Freakybrowse iOS
+
+Package: org.names.iemux
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-1+debug_iphoneos-arm.deb
+Size: 44348
+MD5sum: e6f8faca614a6d08fd57ac3766f81160
+SHA1: 8ead771b0c02ff8bd4dffd6d69cf97b2ab01216d
+SHA256: 52e16acdc6ceadbc7c47dd0408072007a03905b30d3393f725f8d5aa2bb9db26
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-10+debug_iphoneos-arm.deb
+Size: 44182
+MD5sum: a4733552b3790eefe33662750ef47670
+SHA1: 181856ca85ea03f8590e59c7dde10e12d62d256a
+SHA256: 6d5986390b1372ab396ed2c09c9f92dcd412b3c86c270e3ba69ccd3123f475d2
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-2+debug_iphoneos-arm.deb
+Size: 44178
+MD5sum: 2f6ea702aabffebeca5072ca1cb9a692
+SHA1: c438996c8d99d420ec36f3813ba47ecc27b13b93
+SHA256: f33fcf667b0c99d9645ac378a7697832f5eafd3428078a195fcfbfc9c521ff36
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-3+debug_iphoneos-arm.deb
+Size: 44180
+MD5sum: 5e61445e7f6a0c9d0eb68ee5d6422c1e
+SHA1: 8acbadeb469b2f8ca595961e9b87abcbd9a48d79
+SHA256: c4a858deec02c9baeb43cb21c608f9a119708cac1576be638fae4b1ef74e1de4
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-4+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-4+debug_iphoneos-arm.deb
+Size: 44180
+MD5sum: a266b6bd634ab585f866aea297745efc
+SHA1: f8347fbcaafb1ec0d0d2278fd9ad9240379061e3
+SHA256: b13088aa5958e3dd6bddc2987c541018b72bfe996e6c5a86fdefc069cb64f332
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-5+debug_iphoneos-arm.deb
+Size: 44180
+MD5sum: 01db10184850be3d56866efafeeb59b4
+SHA1: 3a73e7d44849ef392d004958d95aed19a1291970
+SHA256: 4cb18b846f88e4f45b067269608180436869754e02517ac5159a33996968d182
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-6+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-6+debug_iphoneos-arm.deb
+Size: 44176
+MD5sum: b2268def3cb7f504b4f7d82373c07097
+SHA1: 72c56d27d9eaad823ea4f3cc31c3d86831a0d373
+SHA256: 4e769a1592655473634ca1cfcdec2def0d8eeadbb36735d1e3cb753a764b940c
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-7+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-7+debug_iphoneos-arm.deb
+Size: 44180
+MD5sum: adb10b52f588cfb9d6d9858fb2a8b90c
+SHA1: c7c20349d9cd216cc9f76b941bd40a3f98dc4977
+SHA256: cc584cbbaba977c878ac5fe2e88b220f3f86bf80a0beef45b0493e103dc9c51f
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-8+debug_iphoneos-arm.deb
+Size: 44182
+MD5sum: 4b79c35f793b5010d9a5e21cadab2b4a
+SHA1: de34ae35f32eedb7a2ba1da9f3a30a5aa3456e90
+SHA256: 47f9e8f5761d65ed068b828ef1b3315dbfb21f06714f7c306cd00a799a958ad6
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
+Package: org.names.iemux
+Version: 1.0.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 116
+Filename: ./debs/org.names.iemux_1.0.0-9+debug_iphoneos-arm.deb
+Size: 44184
+MD5sum: a7fb0d1c29861ef046b729463d1996d0
+SHA1: 52452e75030b9fad0d6ce26839d3d69b2e1aeda3
+SHA256: bda8e71724c9d03c9e23822874676ff86e84a109c192e77b8337fe0603cadce1
+Section: actual stuff
+Description: basic x86 CPU emulator for iOS 8, 9, and 10.
+Author: names
+Name: iEmuX
+
