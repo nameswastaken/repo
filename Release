@@ -2,6 +2,6 @@ Origin: greg
 Label: greg
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm, iphoneos-arm64
 Components: main
-Description: my stupid repo
+Description: my stupid repo for projects i dont care for hahahaha

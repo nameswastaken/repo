@@ -14,6 +14,22 @@ Description: iPadOS-like dock using a modified Harbor base.
 Author: Evan Swick
 Name: iPadOS Dock - Harbor
 
+Package: com.eswick.harbor
+Version: 1.1.2-6+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 836
+Depends: mobilesubstrate
+Filename: ./debs/com.eswick.harbor_1.1.2-6+debug_iphoneos-arm.deb
+Size: 93444
+MD5sum: 7ef20e5f550825e6c13236a2fccfbd18
+SHA1: 390ec9e590b6f2a4fe866392d4f3450b2f394549
+SHA256: 267ee5ecb416433db102a36359f2488696ebae6c71445f5d5441ef781e241d8e
+Section: Tweaks
+Description: iPadOS-like dock using a modified Harbor base.
+Author: Evan Swick
+Name: iPadOS Dock - Harbor
+
 Package: org.names.freakybrowseios
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
